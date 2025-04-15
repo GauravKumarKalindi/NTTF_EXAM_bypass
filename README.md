@@ -23,12 +23,29 @@ This tool is for educational purposes only. Users are responsible for their acti
 - NTTF student credentials
 
 ## 📥 Installation
+### Android (Termux)
+
+1. Install Termux from the [Play Store](https://play.google.com/store/apps/details?id=com.termux) or [F-Droid](https://f-droid.org/packages/com.termux/)
+
+2. Open Termux and run the following commands [SETUP]:
+   ```
+   pkg update && pkg upgrade
+   pkg install python git
+   pip install colorama requests
+   git clone https://github.com/GauravKumarKalindi/NTTF_EXAM_bypass
+   ```
+
+4. Run the script:
+   ```
+   cd gaurav-hacks
+   python exam_nttf.py
+   ```
 
 ### Windows/Mac/Linux PC
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/gaurav-hacks.git
+   git clone https://github.com/GauravKumarKalindi/NTTF_EXAM_bypass
    cd gaurav-hacks
    ```
 
@@ -42,23 +59,6 @@ This tool is for educational purposes only. Users are responsible for their acti
    python exam_retake.py
    ```
 
-### Android (Termux)
-
-1. Install Termux from the [Play Store](https://play.google.com/store/apps/details?id=com.termux) or [F-Droid](https://f-droid.org/packages/com.termux/)
-
-2. Open Termux and run the following commands:
-   ```
-   pkg update && pkg upgrade
-   pkg install python git
-   pip install colorama requests
-   git clone https://github.com/yourusername/gaurav-hacks.git
-   ```
-
-4. Run the script:
-   ```
-   cd gaurav-hacks
-   python exam_nttf.py
-   ```
 
 ### Running in Thonny IDE
 
