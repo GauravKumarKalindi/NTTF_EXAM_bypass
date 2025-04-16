@@ -37,8 +37,8 @@ This tool is for educational purposes only. Users are responsible for their acti
 
 4. Run the script:
    ```
-   cd gaurav-hacks
-   python exam_nttf.py
+   cd NTTF_EXAM_bypass
+   python Exam_retake.py
    ```
 
 ### Windows/Mac/Linux PC
