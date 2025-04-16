@@ -46,7 +46,7 @@ This tool is for educational purposes only. Users are responsible for their acti
 1. Clone the repository:
    ```
    git clone https://github.com/GauravKumarKalindi/NTTF_EXAM_bypass
-   cd gaurav-hacks
+   cd NTTF_EXAM_bypass
    ```
 
 2. Install required dependencies:
@@ -56,7 +56,7 @@ This tool is for educational purposes only. Users are responsible for their acti
 
 3. Run the script:
    ```
-   python exam_retake.py
+   python Exam_retake.py
    ```
 
 
