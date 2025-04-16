@@ -200,7 +200,7 @@ def main():
     response = requests.post(final_submit_url, data=json.dumps(final_payload), headers=headers)
 
     if response.status_code == 200:
-        print(f"{Fore.GREEN}✅ Test submitted successfully!{Style.RESET_ALL}")
+        print(f"{Fore.GREEN}✅ Test submitted successfully! \n \n ................\n New Marks Updated in ERP Server \n BY: GAURAV KR KALINDI \n ................{Style.RESET_ALL}")
     else:
         print(f"{Fore.RED}❌ Test submission failed. Status: {response.status_code}{Style.RESET_ALL}")
         print(f"{Fore.RED}Response: {response.text}{Style.RESET_ALL}")
