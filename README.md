@@ -32,13 +32,13 @@ This tool is for educational purposes only. Users are responsible for their acti
    pkg update && pkg upgrade
    pkg install python git
    pip install colorama requests
-   git clone https://github.com/GauravKumarKalindi/NTTF_EXAM_bypass
+   git clone https://github.com/GauravKumarKalindi/RegiveNTTFexam
    clear
    ```
 
 4. Run the script:
    ```
-   cd NTTF_EXAM_bypass
+   cd RegiveNTTFexam
    python Exam_retake.py
    ```
 
@@ -46,8 +46,8 @@ This tool is for educational purposes only. Users are responsible for their acti
 
 1. Clone the repository:
    ```
-   git clone https://github.com/GauravKumarKalindi/NTTF_EXAM_bypass
-   cd NTTF_EXAM_bypass
+   git clone https://github.com/GauravKumarKalindi/RegiveNTTFexam
+   cd RegiveNTTFexam
    ```
 
 2. Install required dependencies:
