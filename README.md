@@ -33,6 +33,7 @@ This tool is for educational purposes only. Users are responsible for their acti
    pkg install python git
    pip install colorama requests
    git clone https://github.com/GauravKumarKalindi/NTTF_EXAM_bypass
+   clear
    ```
 
 4. Run the script:
